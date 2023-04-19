@@ -1,0 +1,119 @@
+{
+    "data":[
+        {
+            "id":1,
+            "Name":"Priyadarshini",
+            "Category":"Restaurant",
+            "Rating":"4",
+            "Address":"Banglore"
+        },
+        {
+            "id":2,
+            "Name":"Priyadarshini Grand",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":3,
+            "Name":"A2B",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":4,
+            "Name":"Udupi Sagar",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":5,
+            "Name":"Priyadarshini",
+            "Category":"Restaurant",
+            "Rating":"4",
+            "Address":"Chennai"
+        },
+        {
+            "id":6,
+            "Name":"Priyadarshini Grand",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Chennai"
+        },
+        {
+            "id":7,
+            "Name":"A2B",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Chennai"
+        },
+        {
+            "id":8,
+            "Name":"Udupi Sagar",
+            "Category":"Restaurant",
+            "Rating":"3",
+            "Address":"Chennai"
+        }
+,
+
+        {
+            "id":9,
+            "Name":"Home Cleans",
+            "Category":"Service",
+            "Rating":"4",
+            "Address":"Banglore"
+        },
+        {
+            "id":10,
+            "Name":"Uber clean",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":11,
+            "Name":"Urban Clap",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":12,
+            "Name":"Rural Clap",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Banglore"
+        },
+        {
+            "id":13,
+            "Name":"Home Cleans",
+            "Category":"Service",
+            "Rating":"4",
+            "Address":"Chennai"
+        },
+        {
+            "id":14,
+            "Name":"Uber clean",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Chennai"
+        },
+        {
+            "id":15,
+            "Name":"Urban Clap",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Chennai"
+        },
+        {
+            "id":16,
+            "Name":"Rural Clap",
+            "Category":"Service",
+            "Rating":"3",
+            "Address":"Chennai"
+        }
+
+    ]
+}

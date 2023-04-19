@@ -1,0 +1,16 @@
+.topdiv{
+    width:50%;
+    margin: 0px auto;
+    height:100px;
+    background-color: royalblue;
+    font-size: 28px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-bottom:3px dashed yellow ;
+}
+
+.Dropdown-control{
+    width: 51vw;
+    margin: 0px auto;
+}
